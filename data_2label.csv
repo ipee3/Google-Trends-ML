@@ -1,0 +1,416 @@
+keyword,past48h_max,past48h_mean,past48h_std,slope_last_6h,trend_duration_category,trend_peak_hour,trend_duration_group
+28 days later,7,2.396,1.484,0.0,flash,-14.0,not_long
+5g,100,72.208,18.893,-1.4,over_24h,-10.0,long
+911 nashville,8,0.917,1.235,0.057,flash,-13.0,not_long
+acdc chicago,12,3.125,3.246,0.486,flash,-17.0,not_long
+aj foyt,3,0.833,0.63,0.6,flash,-1.0,not_long
+akshay bhatia,4,0.708,0.988,0.0,flash,-19.0,not_long
+alexandra eala,21,1.021,3.664,0.6,flash,-4.0,not_long
+aliyah boston,24,3.833,4.651,0.114,flash,-20.0,not_long
+amas,2,1.229,0.425,0.229,long,-40.0,long
+americano,63,41.708,13.671,2.971,medium,-11.0,not_long
+and just like that season 3,41,22.75,8.522,0.943,medium,-38.0,not_long
+angels game,56,15.271,14.686,0.686,medium,-11.0,not_long
+anime awards 2025,13,3.125,4.019,0.371,flash,-2.0,not_long
+annabelle,74,24.312,18.852,3.2,medium,-13.0,not_long
+arc raiders release date,7,1.375,1.196,0.0,flash,-19.0,not_long
+arkansas softball,8,1.646,1.756,0.143,flash,-13.0,not_long
+arsenal,51,10.875,10.967,4.4,short,-22.0,not_long
+aryna sabalenka,14,0.771,2.731,-1.0,medium,-5.0,not_long
+ashton kutcher,8,4.438,1.675,0.743,medium,-15.0,not_long
+athletics,100,36.688,18.452,1.171,medium,-37.0,not_long
+atlassian,100,34.438,16.098,10.6,long,-46.0,long
+atletico madrid,56,7.062,10.739,9.829,flash,-2.0,not_long
+avril lavigne,2,1.104,0.309,0.0,flash,-40.0,not_long
+ayush mhatre,100,3.771,15.099,-8.8,flash,-5.0,not_long
+bbc football,32,11.25,7.091,3.086,medium,-23.0,not_long
+belize,24,13.083,5.136,0.657,medium,-20.0,not_long
+benfica - sporting lisboa,3,1.042,0.651,0.371,short,-1.0,not_long
+bernard arnault,10,5.396,2.018,0.429,flash,-42.0,not_long
+big mouth season 8,65,34.083,16.045,0.2,short,-39.0,not_long
+bill skarsgård,9,5.25,1.907,0.229,flash,-13.0,not_long
+billy strings,4,1.208,0.824,0.257,flash,-14.0,not_long
+black bear,17,9.208,3.935,0.886,flash,-15.0,not_long
+bournemouth vs leicester city,18,0.667,2.652,2.6,flash,-1.0,not_long
+boxing,37,20.958,6.216,-0.486,medium,-18.0,not_long
+boxing tonight,79,19.729,22.632,-0.114,flash,-19.0,not_long
+brad marchand,30,3.0,4.771,0.371,flash,-13.0,not_long
+breaking news,88,70.875,7.865,2.457,over_24h,-10.0,long
+bronson reed,2,0.083,0.347,0.0,flash,-15.0,not_long
+bryce harper,49,19.25,11.347,2.029,flash,-12.0,not_long
+bryce james,6,2.167,1.562,0.229,medium,-17.0,not_long
+call of duty,95,76.0,11.809,-0.143,over_24h,-13.0,long
+cambridge university,4,3.0,0.461,-0.0,over_24h,-48.0,long
+carmelo anthony,4,1.271,0.939,0.229,flash,-13.0,not_long
+ceiling collapse final destination,17,3.521,5.446,2.4,flash,-2.0,not_long
+charles manson,9,4.979,1.973,0.114,flash,-22.0,not_long
+charles schwab golf tournament,39,9.167,8.167,1.943,flash,-18.0,not_long
+chelsea green,4,0.208,0.651,0.0,flash,-15.0,not_long
+chet holmgren,52,7.562,10.691,0.029,flash,-14.0,not_long
+childcare,5,2.167,0.834,-0.229,medium,-15.0,not_long
+chris gayle,8,1.0,1.185,0.4,flash,-3.0,not_long
+coke 600,21,7.583,5.946,4.257,medium,-1.0,not_long
+creighton baseball,94,9.812,18.71,1.086,flash,-15.0,not_long
+cristiano ronaldo,82,55.667,13.372,2.029,over_24h,-18.0,long
+csk vs gt,100,8.167,24.273,1.857,flash,-5.0,not_long
+dallas wings,14,1.792,2.665,0.229,flash,-20.0,not_long
+daytona 500,2,0.875,0.531,0.371,medium,-39.0,not_long
+deion sanders,6,3.417,1.541,1.086,medium,-16.0,not_long
+dfb pokal,100,12.667,21.678,-0.857,flash,-20.0,not_long
+disney f1,53,2.104,8.511,9.914,medium,-1.0,not_long
+disney movies,100,51.083,22.589,1.571,long,-15.0,long
+drake baldwin,13,1.458,2.76,0.143,flash,-18.0,not_long
+drew barrymore,10,4.979,2.188,0.486,flash,-14.0,not_long
+drew mcintyre,100,8.062,14.775,0.343,medium,-14.0,not_long
+earthquake,100,13.375,13.602,0.086,flash,-10.0,not_long
+earthquake los angeles,100,3.125,14.593,0.257,flash,-10.0,not_long
+earthquake now,6,0.146,0.875,0.0,flash,-10.0,not_long
+ecu baseball,35,6.542,7.258,1.371,flash,-19.0,not_long
+edwin diaz,8,0.479,1.238,0.143,flash,-14.0,not_long
+elizabeth hurley,2,0.979,0.699,0.257,flash,-18.0,not_long
+elly de la cruz,10,3.167,2.808,0.257,medium,-18.0,not_long
+emergency response charles river,17,1.167,3.385,0.486,flash,-2.0,not_long
+epl scores,16,3.896,2.715,2.514,short,-1.0,not_long
+erin andrews,4,0.708,0.771,0.0,flash,-40.0,not_long
+espanyol,100,10.688,21.303,-0.143,medium,-21.0,not_long
+espn mlb scores,3,0.688,0.854,0.0,flash,-38.0,not_long
+f1 movie,4,1.875,0.672,0.571,medium,-37.0,not_long
+f1 tv,100,15.146,20.903,11.971,medium,-3.0,not_long
+fantasy life i,100,75.604,12.798,2.057,medium,-14.0,not_long
+fernando alonso,31,4.875,5.663,6.2,medium,-2.0,not_long
+fever schedule,34,11.5,8.341,1.343,medium,-20.0,not_long
+fights tonight,68,13.542,19.071,0.171,flash,-14.0,not_long
+fireworks near me,24,4.333,4.294,0.857,medium,-14.0,not_long
+flash flood warning,39,5.312,7.804,3.2,flash,-3.0,not_long
+fox sports,29,10.854,5.646,4.514,flash,-16.0,not_long
+frances tiafoe,5,0.25,0.812,0.914,flash,-1.0,not_long
+frank ocean,31,16.354,5.273,0.2,flash,-12.0,not_long
+freep,2,0.979,0.526,0.029,flash,-42.0,not_long
+french open,4,1.25,0.934,0.086,short,-4.0,not_long
+fulham - manchester city,59,1.917,8.475,8.371,short,-1.0,not_long
+funeral director,56,2.208,7.941,-0.143,flash,-10.0,not_long
+garnacho,12,4.292,2.721,1.114,flash,-24.0,not_long
+gen x,8,5.333,1.434,0.4,flash,-38.0,not_long
+gen z,92,73.312,8.184,-0.886,over_24h,-13.0,long
+georgia power,11,4.854,2.576,0.629,flash,-48.0,not_long
+giro d'italia,100,43.167,28.684,5.6,medium,-1.0,not_long
+girona - atlético madrid,24,1.812,5.909,5.057,flash,-2.0,not_long
+glen powell,2,1.0,0.505,0.229,medium,-17.0,not_long
+google pixel 10 pro commercial leak,2,0.062,0.32,0.371,flash,-1.0,not_long
+gript,16,3.625,4.752,0.543,flash,-4.0,not_long
+gronk,3,1.688,0.689,0.4,flash,-40.0,not_long
+guy fieri,3,0.958,0.824,0.143,flash,-16.0,not_long
+gwyneth paltrow,16,9.146,3.39,0.2,long,-16.0,long
+hailey bieber,3,2.271,0.644,0.143,flash,-42.0,not_long
+helen mirren,24,14.188,4.067,0.114,medium,-13.0,not_long
+helio castroneves,4,0.312,0.776,0.771,flash,-2.0,not_long
+indiana fever,65,12.354,13.229,0.857,long,-20.0,long
+indianapolis weather,23,9.229,4.982,3.229,flash,-2.0,not_long
+indy 500 tickets,14,4.75,2.884,2.486,flash,-1.0,not_long
+inter miami - philadelphia,100,9.229,21.105,-0.543,medium,-14.0,not_long
+ios 18.5,62,41.771,8.714,0.171,over_24h,-9.0,long
+iowa baseball,52,14.792,14.895,1.171,medium,-19.0,not_long
+ipl points table,100,28.396,19.443,14.886,long,-2.0,long
+ipswich town vs west ham,4,0.104,0.592,0.6,flash,-1.0,not_long
+isack hadjar,100,11.146,18.372,18.714,short,-2.0,not_long
+it was just an accident,74,17.229,20.629,-0.743,flash,-21.0,not_long
+ja morant,3,1.292,0.544,0.0,flash,-14.0,not_long
+jaden mcdaniels,27,5.021,6.554,-0.229,flash,-15.0,not_long
+jake paul,47,13.188,9.428,0.314,long,-19.0,long
+jane fonda,23,9.25,4.46,0.429,medium,-13.0,not_long
+jared young,25,1.917,5.073,0.257,flash,-16.0,not_long
+jeremy renner,43,22.604,8.996,0.371,long,-14.0,long
+jett lawrence,8,1.833,1.705,0.229,flash,-15.0,not_long
+john krasinski,65,27.021,16.901,0.629,flash,-38.0,not_long
+john wayne,22,10.833,4.987,1.229,long,-15.0,long
+john wick 5,8,3.542,1.443,0.057,flash,-13.0,not_long
+jones beach air show 2025,10,5.062,3.056,1.829,flash,-2.0,not_long
+juju watkins,8,0.958,1.254,0.0,flash,-13.0,not_long
+julian fleming,3,0.333,0.663,0.629,flash,-1.0,not_long
+karlyn pickens,100,8.208,17.372,1.229,flash,-17.0,not_long
+karun nair,52,5.333,8.859,-0.514,flash,-22.0,not_long
+kevin hart,4,2.021,0.956,0.0,flash,-39.0,not_long
+kieran tierney,4,0.458,0.798,0.6,flash,-1.0,not_long
+kimi antonelli,19,4.312,3.985,3.514,medium,-25.0,not_long
+ktla,5,1.562,0.965,0.171,flash,-10.0,not_long
+kyle larson,2,0.875,0.64,0.457,short,-17.0,not_long
+lando norris,11,0.667,1.718,1.743,flash,-1.0,not_long
+lester holt,48,8.229,9.516,2.229,flash,-41.0,not_long
+lewis hamilton,41,10.646,7.064,6.771,medium,-1.0,not_long
+leyton orient,100,10.021,21.029,13.086,medium,-3.0,not_long
+liam lawson,29,4.354,4.55,5.286,medium,-1.0,not_long
+liberty university,50,5.708,9.195,0.257,medium,-16.0,not_long
+liga inglesa,12,4.0,2.334,1.886,medium,-1.0,not_long
+liverpool vs crystal palace,9,0.271,1.364,1.457,flash,-1.0,not_long
+loans,29,19.083,4.933,-0.686,short,-41.0,not_long
+lockerbie bombing,4,0.917,0.871,0.0,flash,-12.0,not_long
+los angeles,100,53.896,23.168,1.829,over_24h,-39.0,long
+lvmh,19,9.583,3.389,1.6,long,-2.0,long
+mac,92,76.354,8.497,1.457,over_24h,-42.0,long
+maia kealoha,26,11.583,5.827,0.686,short,-13.0,not_long
+major league,24,10.167,6.567,0.829,medium,-38.0,not_long
+man united vs aston villa,12,0.25,1.732,1.714,short,-1.0,not_long
+marathon,100,62.5,16.997,-1.257,over_24h,-4.0,long
+marco andretti,3,0.646,0.838,0.714,flash,-2.0,not_long
+margarida corceiro,100,4.292,14.55,14.714,medium,-1.0,not_long
+mario andretti,4,0.229,0.692,0.314,flash,-23.0,not_long
+mark packer,5,0.938,1.42,0.371,flash,-3.0,not_long
+marlins,9,2.479,2.441,0.171,flash,-38.0,not_long
+matthew broderick,7,2.854,1.444,0.171,flash,-22.0,not_long
+matthew tkachuk,100,11.854,18.806,1.0,flash,-13.0,not_long
+matti schmid,5,0.667,1.136,-0.0,flash,-18.0,not_long
+max fried,36,5.188,7.109,0.371,flash,-17.0,not_long
+max verstappen,100,13.292,14.478,16.229,medium,-1.0,not_long
+mcilroy masters,5,1.271,1.83,0.4,medium,-12.0,not_long
+meet the press,15,1.438,2.449,2.829,medium,-1.0,not_long
+meg ryan,18,8.146,3.848,0.543,flash,-18.0,not_long
+memorial day parade,19,7.833,4.861,3.514,medium,-2.0,not_long
+meteor,49,17.0,5.332,0.086,flash,-10.0,not_long
+metlife stadium,25,8.729,5.823,1.714,medium,-16.0,not_long
+miami dolphins,33,19.271,8.044,3.486,long,-15.0,long
+micky dolenz,4,0.833,1.173,0.229,flash,-15.0,not_long
+mike conley,80,8.021,14.454,0.229,flash,-14.0,not_long
+mike johnson,3,1.062,0.697,0.514,medium,-1.0,not_long
+milan vs monza,100,16.25,24.454,-0.857,short,-19.0,not_long
+mlb standings 2025,82,34.625,20.467,3.314,medium,-16.0,not_long
+mn frost,67,7.062,13.441,0.971,flash,-14.0,not_long
+motogp,100,23.646,22.196,4.829,long,-3.0,long
+mpetshi perricard,23,1.771,5.34,3.257,flash,-2.0,not_long
+municipal limeño - alianza,100,8.25,24.446,0.229,flash,-13.0,not_long
+myrtle beach news,16,6.146,4.011,3.143,medium,-2.0,not_long
+myrtle beach weather,6,2.896,1.292,0.857,flash,-2.0,not_long
+nasa,100,12.729,13.018,0.571,over_24h,-20.0,long
+naz reid,97,12.729,19.092,0.486,medium,-14.0,not_long
+nbc,95,46.021,19.573,7.229,over_24h,-15.0,long
+ncaa men's lacrosse,40,10.208,10.235,1.4,medium,-21.0,not_long
+netflix sirens,8,4.458,1.868,0.143,medium,-38.0,not_long
+new movies to stream,46,10.875,13.447,0.229,short,-16.0,not_long
+newcastle united,50,6.083,8.338,7.4,flash,-1.0,not_long
+newcastle united f.c. vs everton f.c. timeline,45,1.5,7.059,4.057,flash,-3.0,not_long
+news on 6,16,3.125,2.647,-0.229,flash,-28.0,not_long
+niagara falls,11,5.604,2.599,0.829,flash,-15.0,not_long
+nick kurtz,6,1.312,1.504,0.229,flash,-36.0,not_long
+nickeil alexander-walker,17,2.562,3.803,0.0,flash,-13.0,not_long
+noah wyle,38,14.792,10.206,0.486,flash,-18.0,not_long
+northwestern women's lacrosse,33,3.208,6.067,0.6,flash,-39.0,not_long
+nottm forest vs chelsea,6,0.125,0.866,0.857,flash,-1.0,not_long
+ok,91,78.188,8.889,0.857,over_24h,-40.0,long
+ole miss baseball,84,21.229,22.128,2.743,medium,-19.0,not_long
+paul goldschmidt,13,2.646,2.957,0.229,short,-17.0,not_long
+penn state baseball,100,12.125,22.907,0.857,flash,-14.0,not_long
+personal injury lawyer,100,32.188,21.432,0.314,short,-34.0,not_long
+phillies standings,4,1.812,0.915,-0.0,flash,-13.0,not_long
+pictures,90,69.896,10.65,3.0,over_24h,-13.0,long
+pl,49,29.229,7.82,1.971,long,-1.0,long
+portland weather,3,2.208,0.849,0.257,medium,-48.0,not_long
+power ball,39,18.167,4.987,2.429,long,-12.0,long
+premier league,26,6.729,4.145,3.171,short,-1.0,not_long
+prince albert of monaco,3,0.146,0.505,0.314,flash,-3.0,not_long
+prince harry,2,1.458,0.504,0.0,flash,-42.0,not_long
+princess charlene,8,1.333,1.226,0.771,flash,-3.0,not_long
+psg - reims,100,8.542,19.737,-0.543,flash,-20.0,not_long
+psg vs,100,12.75,19.025,-0.4,medium,-20.0,not_long
+psg vs inter milan,5,2.438,0.769,0.0,flash,-21.0,not_long
+psg vs reims,100,9.958,19.854,-0.714,medium,-20.0,not_long
+psl,65,13.271,14.721,8.629,short,-1.0,not_long
+qinwen zheng,19,1.271,3.325,1.571,flash,-3.0,not_long
+r truth,100,11.0,15.266,0.0,medium,-14.0,not_long
+rafael nadal,10,1.792,1.701,1.057,flash,-1.0,not_long
+rayo vallecano - r.c.d. mallorca,100,10.833,25.643,-0.143,short,-18.0,not_long
+red sox,34,9.542,8.846,0.457,medium,-40.0,not_long
+reese witherspoon,3,1.375,0.64,0.0,flash,-15.0,not_long
+rob gronkowski,15,4.396,2.403,1.486,flash,-3.0,not_long
+rod brind'amour,16,1.396,3.14,0.143,flash,-13.0,not_long
+roman reigns,45,21.417,8.664,0.371,flash,-11.0,not_long
+rosie o'donnell,19,5.458,4.131,1.371,flash,-14.0,not_long
+running man,100,34.146,17.244,0.657,over_24h,-17.0,long
+saddam hussein,7,5.125,1.104,-0.229,medium,-19.0,not_long
+sam bennett,46,12.104,8.976,1.029,flash,-13.0,not_long
+sam reinhart,69,13.688,13.131,0.714,flash,-15.0,not_long
+san diego fc,100,11.521,23.716,0.229,flash,-17.0,not_long
+serena williams,95,50.688,20.363,4.657,long,-14.0,long
+shahrukh khan,47,4.646,9.288,2.057,long,-4.0,long
+shakira,97,55.083,18.769,2.629,long,-13.0,long
+shane gillis,31,4.438,4.946,0.229,medium,-12.0,not_long
+shemar moore,14,4.917,2.967,0.371,medium,-15.0,not_long
+simba vs rsb berkane,100,5.062,19.906,20.886,short,-2.0,not_long
+skip bayless,11,2.0,2.601,0.0,flash,-37.0,not_long
+snowfall,21,14.375,3.05,0.143,flash,-17.0,not_long
+softball games today,3,1.292,0.922,0.629,flash,-16.0,not_long
+soudal open,13,3.958,3.162,1.429,flash,-1.0,not_long
+southampton vs arsenal,88,3.188,13.402,14.143,short,-1.0,not_long
+spacex launch,100,7.625,14.475,0.029,flash,-10.0,not_long
+srh vs kkr,87,1.938,12.569,12.943,short,-1.0,not_long
+stanley cup winners,3,0.208,0.544,0.0,flash,-13.0,not_long
+starling marte,7,0.938,1.767,0.143,flash,-14.0,not_long
+stuttgart fc,100,15.312,21.806,-0.857,flash,-21.0,not_long
+syracuse lacrosse,75,9.312,17.358,0.486,flash,-19.0,not_long
+taylor ward,8,1.938,1.603,0.0,flash,-12.0,not_long
+tcu baseball,80,14.542,18.924,0.486,flash,-14.0,not_long
+tej pratap yadav,85,10.167,19.398,-0.4,long,-5.0,long
+terry crews,4,2.625,0.89,0.114,short,-41.0,not_long
+the bear,99,64.625,18.275,2.2,over_24h,-15.0,long
+the sphere las vegas,21,10.146,5.619,0.857,short,-15.0,not_long
+tiafoe,12,0.792,1.821,1.829,short,-1.0,not_long
+tigers game today,36,7.354,7.659,1.943,flash,-16.0,not_long
+tigres femenil,100,10.75,23.12,0.229,short,-13.0,not_long
+tim cowlishaw,3,0.646,0.699,0.543,flash,-2.0,not_long
+tim robinson,13,5.979,3.687,0.6,flash,-38.0,not_long
+timberwolves,100,11.542,22.879,0.771,flash,-13.0,not_long
+tommy paul,84,10.771,19.913,-11.114,flash,-5.0,not_long
+tony stewart,12,2.375,1.898,1.857,flash,-1.0,not_long
+tottenham vs brighton,58,2.167,8.603,8.829,short,-1.0,not_long
+travis hunter,9,2.042,2.278,0.857,flash,-12.0,not_long
+trent alexander-arnold,2,0.771,0.472,0.143,flash,-1.0,not_long
+tulsa weather,20,6.375,3.036,0.714,medium,-28.0,not_long
+twitch hasanabi,2,0.125,0.393,0.257,flash,-2.0,not_long
+tylenol murders,2,0.688,0.748,0.229,flash,-16.0,not_long
+ucl final,8,3.646,1.28,-0.0,over_24h,-23.0,long
+ucla softball,33,5.042,5.864,0.914,flash,-20.0,not_long
+va lottery,3,0.958,0.824,0.143,flash,-45.0,not_long
+victor wembanyama,44,16.0,7.325,0.257,flash,-14.0,not_long
+victoria mboko,78,13.021,16.234,-8.057,medium,-5.0,not_long
+video,100,74.792,12.73,-6.486,over_24h,-21.0,long
+villarreal - sevilla,10,0.354,1.669,1.914,flash,-1.0,not_long
+villarreal vs sevilla,81,3.562,13.48,14.943,flash,-1.0,not_long
+virginia lottery,47,15.667,10.755,0.171,short,-12.0,not_long
+wagner moura,14,3.312,4.401,0.143,medium,-22.0,not_long
+waves,84,69.75,6.622,1.857,over_24h,-47.0,long
+whitecaps - real salt lake,51,4.833,12.508,0.114,flash,-13.0,not_long
+will power,42,33.771,5.684,1.743,flash,-14.0,not_long
+willie geist,3,0.125,0.531,0.4,flash,-3.0,not_long
+wolves vs brentford,58,3.438,8.264,7.543,short,-1.0,not_long
+wwe evolution,80,6.312,13.763,0.6,flash,-14.0,not_long
+wwe main event,100,16.667,23.111,-1.457,long,-15.0,long
+wwe money in the bank 2025,51,11.583,8.364,-0.086,flash,-13.0,not_long
+xabi alonso,8,1.5,1.488,0.143,medium,-5.0,not_long
+yankees - rockies,100,21.021,27.703,0.543,short,-17.0,not_long
+zach galifianakis,36,16.979,8.789,1.0,long,-14.0,long
+zebby matthews,6,0.938,1.343,0.0,flash,-21.0,not_long
+zizou bergs,6,0.458,1.458,0.8,flash,-3.0,not_long
+دیوار,25,14.5,6.968,-1.743,long,-31.0,long
+16 billion passwords leaked,21,11.5,3.7,-4.0,flash,-32.0,not_long
+adley rutschman,38,9.5,8.3,14.0,short,-21.0,not_long
+alec bohm,19,2.3,2.9,3.0,flash,-13.0,not_long
+allen iverson,100,37.8,15.1,2.0,over_24h,-21.0,long
+andrei arlovski,22,1.8,3.9,2.0,flash,-11.0,not_long
+apple news,77,35.9,14.3,-1.0,over_24h,-14.0,long
+armenia,46,27.9,8.0,-7.0,over_24h,-12.0,long
+axl rose,49,12.4,8.4,14.0,flash,-22.0,not_long
+bahamondes,100,7.5,14.4,-1.0,flash,-17.0,not_long
+ben rice,63,13.6,13.6,9.0,medium,-19.0,not_long
+bibi,100,21.8,15.4,-9.0,medium,-12.0,not_long
+bitcoin,100,55.7,13.8,18.0,over_24h,0.0,long
+boston celtics,5,2.9,0.8,-2.0,flash,-4.0,not_long
+brawl talk,64,7.7,10.8,-8.0,short,-23.0,not_long
+brian urlacher,36,2.7,5.2,0.0,flash,-22.0,not_long
+c span,4,0.5,0.8,1.0,flash,-12.0,not_long
+caden bodine,25,1.4,4.4,0.0,flash,-15.0,not_long
+campbell wilson,27,1.8,5.8,0.0,flash,-7.0,not_long
+cardinals game,64,17.3,13.6,10.0,medium,-17.0,not_long
+cfl,95,28.5,20.4,-8.0,over_24h,-16.0,long
+charles schwab field,53,7.5,10.5,7.0,short,-14.0,not_long
+charley hull,10,1.8,1.8,2.0,flash,-18.0,not_long
+chase petty,15,0.7,2.2,0.0,flash,-17.0,not_long
+chespirito,100,49.4,22.3,-7.0,over_24h,-33.0,long
+chevy chase,13,6.0,1.8,0.0,flash,-11.0,not_long
+chris devenski,10,0.3,1.5,0.0,flash,-12.0,not_long
+chris stapleton,100,32.2,16.5,16.0,over_24h,-15.0,long
+crypto news,42,15.8,7.9,-7.0,medium,-1.0,not_long
+cubs standings,69,20.9,11.7,4.0,over_24h,-17.0,long
+cyberpunk 2077,92,50.1,18.4,-23.0,over_24h,-7.0,long
+denny mccarthy,32,3.0,5.5,3.0,flash,-17.0,not_long
+devin booker,13,6.3,2.6,-6.0,flash,-6.0,not_long
+divorce lawyer,90,32.2,18.6,-26.0,over_24h,-25.0,long
+dodgers vs nationals,34,8.1,9.0,-4.0,short,-34.0,not_long
+dow futures now,25,4.0,7.0,-6.0,flash,-4.0,not_long
+emerson hancock,27,4.8,7.7,3.0,short,-19.0,not_long
+feijoa grow a garden roblox,29,1.4,4.4,5.0,flash,-18.0,not_long
+flight radar 24,32,15.5,6.5,9.0,medium,-11.0,not_long
+francisco alvarez,35,4.2,7.2,6.0,flash,-12.0,not_long
+giants game today,100,23.8,21.1,17.0,long,-34.0,long
+gigi perez,93,21.1,15.3,10.0,long,-37.0,long
+great america,15,10.5,3.4,7.0,flash,-20.0,not_long
+hailey van lith,56,19.5,9.1,1.0,long,-20.0,long
+heliot ramos,31,4.9,6.5,4.0,flash,-18.0,not_long
+houston dash vs north carolina courage,3,0.3,0.8,0.0,flash,-18.0,not_long
+is love island on tonight,58,12.6,13.1,8.0,medium,-13.0,not_long
+jackson holliday,28,3.6,5.4,0.0,flash,-38.0,not_long
+jake irvin,11,1.4,2.6,0.0,flash,-12.0,not_long
+jake tapper,28,2.9,4.1,2.0,flash,-12.0,not_long
+james taylor,3,1.5,0.6,1.0,flash,-12.0,not_long
+jesse love,14,1.2,2.2,0.0,flash,-16.0,not_long
+joanna gaines,57,22.2,10.9,4.0,over_24h,-23.0,long
+joe root,4,0.7,1.0,1.0,flash,-26.0,not_long
+joe ross,24,1.2,4.6,0.0,flash,-14.0,not_long
+joel reichow,24,1.9,3.9,0.0,flash,-23.0,not_long
+john hamm,41,7.4,7.2,4.0,flash,-11.0,not_long
+john thune,24,2.7,4.7,5.0,flash,-13.0,not_long
+jordan country,2,0.5,0.6,0.0,flash,-13.0,not_long
+junior caminero,24,3.6,4.3,2.0,flash,-21.0,not_long
+kai kara france,34,1.6,4.9,0.0,flash,-18.0,not_long
+kane brown,100,36.7,15.7,17.0,over_24h,-12.0,long
+katie price,41,11.2,9.3,-5.0,medium,-2.0,not_long
+kevin schnall,47,3.0,8.1,0.0,flash,-15.0,not_long
+kumar rocker,29,3.6,5.7,2.0,flash,-17.0,not_long
+kyle schwarber,24,8.0,5.8,6.0,short,-14.0,not_long
+kyrgyzstan,100,12.5,13.5,-7.0,flash,-18.0,not_long
+lesotho,6,1.1,1.3,2.0,flash,-15.0,not_long
+london weather,100,31.9,13.5,12.0,over_24h,0.0,long
+lucas martínez quarta,11,0.7,2.2,0.0,flash,-13.0,not_long
+lucas ribeiro costa,2,0.1,0.3,0.0,flash,-22.0,not_long
+luis henrique,4,0.2,0.7,0.0,flash,-19.0,not_long
+lumen field,18,6.2,4.5,3.0,flash,-20.0,not_long
+maren morris,66,9.6,9.0,8.0,flash,-22.0,not_long
+matt gutman,53,2.0,7.5,0.0,flash,-12.0,not_long
+matt olson,43,7.6,7.6,5.0,flash,-17.0,not_long
+md lottery,2,0.9,0.6,0.0,flash,-46.0,not_long
+michael busch,26,3.9,4.9,0.0,flash,-19.0,not_long
+michael rubin,4,1.1,0.7,0.0,flash,-21.0,not_long
+mlb mock draft,26,5.7,4.5,1.0,flash,-13.0,not_long
+moose lottery maine,100,15.7,23.0,-33.0,medium,-17.0,not_long
+mta,19,13.2,4.0,-4.0,flash,-28.0,not_long
+nascar qualifying,98,15.9,19.3,7.0,medium,-20.0,not_long
+navy pier,19,2.6,2.7,1.0,flash,-11.0,not_long
+nelson deossa,22,0.9,3.6,0.0,flash,-13.0,not_long
+nolan arenado,21,5.4,4.2,7.0,flash,-17.0,not_long
+nrg stadium,4,1.6,1.0,1.0,flash,-16.0,not_long
+ops baseball,100,15.0,15.8,-6.0,medium,-15.0,not_long
+oran,100,24.0,22.4,-6.0,medium,-14.0,not_long
+pacers watch party,56,6.9,9.5,5.0,flash,-24.0,not_long
+parker mccollum,19,4.2,3.0,4.0,flash,-16.0,not_long
+pat connaughton,2,0.1,0.4,0.0,flash,-18.0,not_long
+paul gervase,27,1.7,4.5,0.0,flash,-21.0,not_long
+pga leaderboard today,36,12.6,8.2,5.0,medium,-17.0,not_long
+philippines,56,18.7,8.8,38.0,medium,0.0,not_long
+portland thorns,60,7.2,12.5,-1.0,short,-11.0,not_long
+rahm emanuel,35,2.7,5.3,3.0,flash,-10.0,not_long
+real estate,100,60.8,12.2,-9.0,over_24h,-28.0,long
+reds score,78,14.9,17.1,-11.0,medium,-17.0,not_long
+rick fox,34,4.9,5.2,4.0,flash,-23.0,not_long
+rockies game,30,9.1,6.6,10.0,flash,-35.0,not_long
+ryder cup 2025,44,10.6,8.3,6.0,short,-16.0,not_long
+samantha barks,3,1.1,0.8,1.0,flash,-38.0,not_long
+shia labeouf,77,41.6,15.8,-13.0,over_24h,-32.0,long
+singapore,42,17.3,8.9,-18.0,medium,-7.0,not_long
+sky vs mercury,100,10.1,20.8,-6.0,short,-21.0,not_long
+sonny gray,41,6.4,8.6,0.0,flash,-20.0,not_long
+steve buscemi,26,8.6,5.7,6.0,flash,-10.0,not_long
+steven milam,5,0.3,1.1,0.0,flash,-15.0,not_long
+stevie nicks,50,28.8,8.3,11.0,over_24h,-11.0,long
+sunglasses,100,78.2,13.0,23.0,over_24h,-20.0,long
+thiago silva,6,0.9,1.2,1.0,flash,-16.0,not_long
+tigers vs rays prediction,43,7.6,9.7,13.0,medium,-23.0,not_long
+tj brodie,18,0.8,2.8,0.0,flash,-22.0,not_long
+tom cotton,60,5.0,10.3,20.0,flash,-13.0,not_long
+tom petty,100,44.8,16.2,11.0,over_24h,-18.0,long
+trevor project,41,15.7,9.4,12.0,medium,-24.0,not_long
+tybee island,10,4.7,2.1,5.0,flash,-16.0,not_long
+ukraine war,100,38.6,21.1,-1.0,over_24h,-12.0,long
+wemby,76,16.5,13.0,20.0,medium,0.0,not_long
+will klein,26,0.9,3.7,0.0,flash,-10.0,not_long
+windstruck grow a garden,64,8.6,12.8,6.0,medium,-24.0,not_long
+world cup clubs,78,46.2,18.9,19.0,over_24h,-42.0,long
+xrp,100,36.6,14.6,49.0,over_24h,0.0,long
+فردو کجاست,10,0.8,1.9,0.0,flash,-14.0,not_long
+مجید مسیبی,35,1.3,6.4,0.0,flash,-9.0,not_long
